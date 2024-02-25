@@ -1,0 +1,69 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #0776a0;
+}
+
+header img {
+    height: 60px;
+    width: 60px;
+}
+
+header a {
+    text-decoration: none;
+    background-color: #ffb600;
+    color: black;
+    border: 1px solid #ffb600;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.img {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.funny {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    padding: 20px;
+}
+
+.family {
+    color: #ff2c00;
+    text-align: left;
+}
+
+.t-a {
+    text-align: center;
+}
+
+.t-a2 {
+    text-align: center;
+}
+
+.name {
+    color: #ff2c00;
+}
+
+.img {
+    width: 180px;
+    height: 200px;
+}
+
+.img2 {
+    width: 150px;
+    height: 180px;
+    padding: 20px;
+}
+
+footer {
+    background-color: #0776a0;
+    color: whitesmoke;
+    padding: 15px;
+}
